@@ -1,0 +1,17 @@
+k
+node_modules/
+
+# Environment variables
+.env
+
+# Generated Prisma client
+/generated/prisma/
+
+# Build output
+dist/
+
+# Local editor and agent settings
+.agents/
+.claude/
+.windsurf/
+
